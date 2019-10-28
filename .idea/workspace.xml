@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1SpLfjizs3xkTLWh57DPxlS4mf6" />
+  <component name="RunManager">
+    <configuration name="DeclarationAndUseOfRemedies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeclarationAndUseOfRemedies" />
+      <module name="Declaration and use of remedies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeclarationAndUseOfRemedies" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
